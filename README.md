@@ -155,32 +155,25 @@ aws s3 cp s3://my-demo-bucket/test.txt .
 
 ## 📸 Project Screenshots
 
-### EC2 Instance
-
-
-
 ### SSH Connection
 
-
-
-### AWS CLI Configuration
-
-
+![SSH Connection](01-ssh-connection.png)
 
 ### STS Identity Verification
 
-
+![STS Identity Verification](02-sts-identity.png)
 
 ### S3 Bucket
 
+![S3 Bucket](03-s3-bucket.png)
 
 ### File Upload
 
-
+![File Upload](04-s3-upload.png)
 
 ### File Download
 
-
+![File Download](05-s3-download.png)
 
 ---
 
