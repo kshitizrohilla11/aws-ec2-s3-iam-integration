@@ -1,0 +1,15 @@
+# AWS CLI credentials and configuration
+.aws/
+credentials
+config
+
+# Environment variables and secrets
+.env
+.env.*
+
+# EC2 SSH private keys
+*.pem
+*.key
+
+# Log files
+*.log
