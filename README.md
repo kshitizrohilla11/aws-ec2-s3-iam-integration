@@ -255,7 +255,18 @@ Possible improvements for this project include:
 * Provision the infrastructure using Terraform
 
 ---
+## 🧰 Skills Demonstrated
 
+- AWS EC2
+- Amazon S3
+- AWS IAM
+- AWS STS
+- AWS CLI
+- Linux / Ubuntu
+- SSH
+- Cloud Security
+- AWS permissions and access management
+  
 ## 👨‍💻 Author
 
 **Kshitiz Rohilla**
