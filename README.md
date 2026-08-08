@@ -177,6 +177,12 @@ aws s3 cp s3://my-demo-bucket/test.txt .
 
 ---
 
+## 📖 AWS CLI Commands
+
+For the complete list of AWS CLI commands used in this project:
+
+👉 [View AWS CLI Commands](commands/aws-cli-commands.md)
+
 ## 📚 Key Learnings
 
 Through this project, I gained practical experience with:
